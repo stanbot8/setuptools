@@ -1,0 +1,29 @@
+{
+  "definition_blob_sha1": {
+    ".github/workflows/alpha-bridge-ci-verify.yml": "d19efeb3bd029beb4c50fd874010d2b930d20715",
+    ".github/workflows/ci-sage.yml": "f5315b525675a3dbb89b41023b4402843f0b8c53",
+    ".github/workflows/main.yml": "a60c8c490fab1f10db9c3962f192b7c2e656b1ec",
+    ".github/workflows/pyright.yml": "d1ca8480b5eaf1d8979e72eb3cc0322d87dce7af",
+    ".github/workflows/test-suite.yml": "e114b97ef6c8128e795b37dfebf8d3e1db9d8769"
+  },
+  "definition_sha256": {
+    ".github/workflows/alpha-bridge-ci-verify.yml": "8fde9e2f5e1b37bbbb22794427ac6d217d8b18bc857606edd0b072e89c58b436",
+    ".github/workflows/ci-sage.yml": "25a16c6487d3f917ed12555d081adc18e7b6138ac3e65ad2ee86e4ecf05ddcea",
+    ".github/workflows/main.yml": "25f1be5cefa383facbfc2e474479f07db7ff76299f995c1edc22cd79bbad09ea",
+    ".github/workflows/pyright.yml": "15c94325779d833a2ff2be46bcdcacee277e2b2eefe879a95a1ef71f908fcbc2",
+    ".github/workflows/test-suite.yml": "bf5f573a269f8cfdf560eb7bd031da12db2299feb3411eb8f01f003a66c24cb7"
+  },
+  "generator_sha256": "f9d11fba5b604bac754f7ab7e40ccde549adf8e029da2ca91ed14e9ab94c0775",
+  "schema": "alpha-bridge/fork-ci",
+  "source_branch": "main",
+  "source_commit": "4e612f9e44ecfad130d0b2a27a2dce0740599b4b",
+  "source_repository": "pypa/setuptools",
+  "version": 1,
+  "workflows": [
+    ".github/workflows/alpha-bridge-ci-verify.yml",
+    ".github/workflows/ci-sage.yml",
+    ".github/workflows/main.yml",
+    ".github/workflows/pyright.yml",
+    ".github/workflows/test-suite.yml"
+  ]
+}
