@@ -1,19 +1,19 @@
 {
   "definition_blob_sha1": {
-    ".github/workflows/alpha-bridge-ci-verify.yml": "d19efeb3bd029beb4c50fd874010d2b930d20715",
-    ".github/workflows/ci-sage.yml": "f5315b525675a3dbb89b41023b4402843f0b8c53",
-    ".github/workflows/main.yml": "a60c8c490fab1f10db9c3962f192b7c2e656b1ec",
-    ".github/workflows/pyright.yml": "d1ca8480b5eaf1d8979e72eb3cc0322d87dce7af",
-    ".github/workflows/test-suite.yml": "e114b97ef6c8128e795b37dfebf8d3e1db9d8769"
+    ".github/workflows/alpha-bridge-ci-verify.yml": "e967624600c97e9308ad7039f50e4e5b3480a77f",
+    ".github/workflows/ci-sage.yml": "fb15595cfbfebee0b6c0f4de98cccdeddec0de6d",
+    ".github/workflows/main.yml": "e0e1ac15851a494977c80593d0bb2b5df791f90f",
+    ".github/workflows/pyright.yml": "045ef187e6bbb6ef867f3b9d8891ec5be828d514",
+    ".github/workflows/test-suite.yml": "e043bd8d722a77c612276d8981d6c1037a488e7f"
   },
   "definition_sha256": {
-    ".github/workflows/alpha-bridge-ci-verify.yml": "8fde9e2f5e1b37bbbb22794427ac6d217d8b18bc857606edd0b072e89c58b436",
-    ".github/workflows/ci-sage.yml": "25a16c6487d3f917ed12555d081adc18e7b6138ac3e65ad2ee86e4ecf05ddcea",
-    ".github/workflows/main.yml": "25f1be5cefa383facbfc2e474479f07db7ff76299f995c1edc22cd79bbad09ea",
-    ".github/workflows/pyright.yml": "15c94325779d833a2ff2be46bcdcacee277e2b2eefe879a95a1ef71f908fcbc2",
-    ".github/workflows/test-suite.yml": "bf5f573a269f8cfdf560eb7bd031da12db2299feb3411eb8f01f003a66c24cb7"
+    ".github/workflows/alpha-bridge-ci-verify.yml": "148b49359afdc3ab3ecde8d2957b2c4f4fc171da278ede186b799ac544b662f0",
+    ".github/workflows/ci-sage.yml": "f5d99b990dab595da70fe021f67760be4852a806d4268e2b80ff824164bc3a8e",
+    ".github/workflows/main.yml": "e1171bc9a549bde7da31a8a72ebb48b72fcfc8288eff003f9623cb6e6d22c0eb",
+    ".github/workflows/pyright.yml": "72e153793d3b7ce4c9c1baeb6c49159e3fb1ec0dd0f154149ae40c486bddec15",
+    ".github/workflows/test-suite.yml": "3fe37f8282d8b025b3d7fdb9c8606b56be37d6f9ab5e239a5a9bb234fa000e81"
   },
-  "generator_sha256": "f9d11fba5b604bac754f7ab7e40ccde549adf8e029da2ca91ed14e9ab94c0775",
+  "generator_sha256": "7b3db61baf202e3e7dd48fa25de24a19021fd832011e4b2a2f8fe59420da19d8",
   "schema": "alpha-bridge/fork-ci",
   "source_branch": "main",
   "source_commit": "4e612f9e44ecfad130d0b2a27a2dce0740599b4b",
